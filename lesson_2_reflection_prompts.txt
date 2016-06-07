@@ -5,6 +5,8 @@ It adds a new directory .git to start storing all changes made to that repositor
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
+Staging area is the intermediate area between the working directory and the repository. You can easily add or remove files from there, but it gives the flexibility of adding multiple files per logical commit.
+
 How can you use the staging area to make sure you have one commit per logical
 change?
 
