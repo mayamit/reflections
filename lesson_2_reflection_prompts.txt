@@ -24,5 +24,7 @@ It helps to ensure that there are no commits which are detached. You can easily 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+All the changes that were made to all the files in both the branches are now merged after checking for conflict. Diagram just helps to visualize the changes.
+
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
