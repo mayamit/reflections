@@ -28,3 +28,6 @@ All the changes that were made to all the files in both the branches are now mer
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+
+Pros: Changes that do not require any intervention, get taken care of automatically.
+Cons: Some changes might be inadvertently missed out.
