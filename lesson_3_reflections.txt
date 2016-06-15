@@ -13,3 +13,7 @@ Forks are used to create a copy of a repository on Github only, nothing is copie
 What is the benefit of having a copy of the last known state of the remote stored locally?
 
 You can now work offline and understand what changes were made to the master.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+It would require a tremendous amount of co-ordination and sending files back and forth. Would be much harder.
